@@ -1,0 +1,9 @@
+body {
+    margin: auto 0;
+    font-family: georgia, times new roman, serif;
+    font-size: 1rem;
+}
+
+p {
+    color: blue;
+}
